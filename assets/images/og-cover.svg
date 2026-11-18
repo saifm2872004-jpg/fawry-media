@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="[YOUR COMPANY NAME] — We design. We develop. We create impact.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#00D9FF"/></linearGradient>
+    <radialGradient id="r" cx=".85" cy=".1" r=".8"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".55"/><stop offset="1" stop-color="#08090D" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#08090D"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g stroke="rgba(255,255,255,.06)"><path d="M0 157.5H1200M0 315H1200M0 472.5H1200M300 0V630M600 0V630M900 0V630"/></g>
+  <circle cx="960" cy="200" r="150" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <circle cx="960" cy="200" r="100" fill="none" stroke="rgba(255,255,255,.2)" stroke-width="1"/>
+  <circle cx="960" cy="200" r="18" fill="#fff"/>
+  <text x="80" y="300" font-family="Syne, Arial Black, sans-serif" font-weight="800" font-size="92" letter-spacing="-4" fill="#fff">WE DESIGN.</text>
+  <text x="80" y="390" font-family="Syne, Arial Black, sans-serif" font-weight="800" font-size="92" letter-spacing="-4" fill="#fff">WE DEVELOP.</text>
+  <text x="80" y="480" font-family="Syne, Arial Black, sans-serif" font-weight="800" font-size="92" letter-spacing="-4" fill="url(#g)">WE CREATE IMPACT.</text>
+  <text x="80" y="560" font-family="Manrope, Arial, sans-serif" font-weight="700" font-size="20" letter-spacing="6" fill="#A1A1AA">[YOUR COMPANY NAME] — CREATIVE DIGITAL AGENCY</text>
+</svg>
